@@ -3,13 +3,16 @@
 
 # Video Demonstration:-
 https://github.com/Coolexguy/GC_24_ARDUGEM_38/assets/164471213/b0cc7219-a155-4c07-a2fb-3406df0440ac
+
 # Asteroid Shooter :-
 We developed it for  ArduGem GC'24(IIT Bhubaneswar's inter-branch competition).
 
 # Description:-
 + This project is based on the concept of Arcade style survival games.
 + It is a game of pace, accuracy and reflexes.
-+ Asteroids will be spawning randomly from different directions and the player shall aim and shoot the asteroids to destroy them.
++ This game is limited to being play on a console(Joystick Module).
++ The game is immersive and engaging as it progresses.
++ There is noticeable lag in the game.
 
 # Dependecies:-
 + <SPI.h>

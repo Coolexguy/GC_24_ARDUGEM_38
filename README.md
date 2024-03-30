@@ -1,3 +1,5 @@
+
+https://github.com/Coolexguy/GC_24_ARDUGEM_38/assets/164471213/b0cc7219-a155-4c07-a2fb-3406df0440ac
 ![DIsplay2](https://github.com/Coolexguy/ArduGem-GC-2024/assets/164471213/eb2b21fe-af4b-438f-9f7a-cf8809d7c8e9)
 # Asteroid Shooter :-
 We developed it for  ArduGem GC'24(IIT Bhubaneswar's inter-branch competition).
@@ -59,3 +61,5 @@ We developed it for  ArduGem GC'24(IIT Bhubaneswar's inter-branch competition).
 + There are six push button switches labeled from '**A**' to '**F**'.
 + The joystick module uses pull up resistors to pull the switches to a logical **HIGH**.
 + When the switches are activated, they are connected to the ground to pull it to logical **LOW**.
+
+Uploading 1b8e78c0-3086-4d82-8800-16041e6c0ce8.mp4…

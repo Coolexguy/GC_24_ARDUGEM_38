@@ -306,6 +306,7 @@ void startUp()
     if (f == 0)
     {
       tft.fillScreen(ST7735_BLACK);
+      stars();
       tft.setTextColor(WHITE);
       tft.setCursor(4, 4);
       tft.setTextSize(1);

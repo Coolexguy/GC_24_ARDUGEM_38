@@ -11,8 +11,7 @@ We developed it for  ArduGem GC'24(IIT Bhubaneswar's inter-branch competition).
 + This project is based on the concept of Arcade style survival games.
 + It is a game of pace, accuracy and reflexes.
 + This game is written such that it works even on the lowest end Hardware(Arduino UNO).
-+ The game is immersive and engaging as it progresses.
-
++ The game's design and the fast paced nature makes it immersive and engaging.
 # Dependecies:-
 + <SPI.h>
 + <Adafruit_GFX.h>

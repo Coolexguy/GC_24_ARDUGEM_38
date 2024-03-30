@@ -10,9 +10,8 @@ We developed it for  ArduGem GC'24(IIT Bhubaneswar's inter-branch competition).
 # Description:-
 + This project is based on the concept of Arcade style survival games.
 + It is a game of pace, accuracy and reflexes.
-+ This game is  to being played on a console(Joystick Module).
++ This game is written such that it works even on the lowest end Hardware(Arduino UNO).
 + The game is immersive and engaging as it progresses.
-+ There is no noticeable lag in the game.
 
 # Dependecies:-
 + <SPI.h>

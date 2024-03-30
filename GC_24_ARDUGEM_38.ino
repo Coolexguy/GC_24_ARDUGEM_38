@@ -237,7 +237,6 @@ void ammoSetup()
   tft.setTextColor(CYAN);
   tft.setCursor(86, 123);
   tft.print("Ammo:");
-  //  tft.drawLine(112,0,112,128, RED);// for alignment
 }
 void playerSetup()
 {

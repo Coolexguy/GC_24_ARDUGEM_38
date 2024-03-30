@@ -1,7 +1,8 @@
-https://github.com/Coolexguy/GC_24_ARDUGEM_38/assets/164471213/b0cc7219-a155-4c07-a2fb-3406df0440ac
-
-
 ![DIsplay2](https://github.com/Coolexguy/ArduGem-GC-2024/assets/164471213/eb2b21fe-af4b-438f-9f7a-cf8809d7c8e9)
+
+
+# Video Demonstration:-
+https://github.com/Coolexguy/GC_24_ARDUGEM_38/assets/164471213/b0cc7219-a155-4c07-a2fb-3406df0440ac
 # Asteroid Shooter :-
 We developed it for  ArduGem GC'24(IIT Bhubaneswar's inter-branch competition).
 

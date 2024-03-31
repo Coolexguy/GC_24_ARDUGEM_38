@@ -1223,7 +1223,7 @@ void loop()
     delay(100);
   }
   // Serial.println(shooter(point(15)));
-  if (collision(shooter(point(15), reload(500))) || scatter(20000))
+  if (collision(shooter(point(15), reload(500))) || scatter(25000))
   {
     scoreDisplay(score);
   }

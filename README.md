@@ -31,7 +31,7 @@ We developed it for  ArduGem GC'24(IIT Bhubaneswar's inter-branch competition).
 + The player turns **Red** in order to indicate the reloading sequence.
 ### Powerups:-
 + Press '**A**' to use **Scatter Shot** which shoots in all possible directions.
-+ Every 20 seconds the player can see a blue little circle on the left corner,which indicates **SCATTER SHOT**.
++ Every 25 seconds the player can see a blue little circle on the left corner,which indicates **SCATTER SHOT**.
 + Press '**D**' to activate **SHIELD**.
 + Every 20 seconds the player can see a little cyan circle on the left corner above the blue circle which indicates **SHIELD**
 + The **SHIELD** lasts for 5 seconds which makes the player invincible.

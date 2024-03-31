@@ -1062,7 +1062,7 @@ void diamonds_1()
   {
     for (int i = 0; i <= 8; i++)
     {
-      asteroid_speed[i] = 60;
+      asteroid_speed[i] = 55;
     }
     asteroid_presence[1] = 1;
     asteroid_presence[3] = 1;
@@ -1076,7 +1076,7 @@ void diamonds_2()
   {
     for (int i = 0; i <= 8; i++)
     {
-      asteroid_speed[i] = 60;
+      asteroid_speed[i] = 55;
     }
     asteroid_presence[2] = 1;
     asteroid_presence[4] = 1;
@@ -1088,7 +1088,7 @@ void wall_1()
 {
   if (asteroid_presence[8] == 0 && asteroid_presence[1] == 0 && asteroid_presence[2] == 0)
   {
-    int b = random(60, 80);
+    int b = random(40, 60);
     for (int i = 1; i <= 2; i++)
     {
       asteroid_speed[i] = b;
@@ -1153,13 +1153,13 @@ void Runtime()
     {
       for (int i = 0; i <= 8; i++)
       {
-        asteroid_speed[i] = random(60, 100);
+        asteroid_speed[i] = random(50, 90);
       }
       if (score > 140)
       {
         for (int i = 0; i <= 8; i++)
         {
-          asteroid_speed[i] = random(40, 80);
+          asteroid_speed[i] = random(40, 70);
         }
       }
     }

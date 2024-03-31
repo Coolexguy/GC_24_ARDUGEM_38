@@ -379,7 +379,7 @@ void pause(byte currentScore, byte highScore)
   {
   }
   tft.fillScreen(ST7735_BLACK);
-
+  stars();
   scoreSetup();
   playerSetup();
   ammoSetup();

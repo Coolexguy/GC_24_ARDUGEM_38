@@ -1,7 +1,7 @@
 #include <Adafruit_GFX.h>    // Core graphics library
 #include <Adafruit_ST7735.h> // Hardware-specific library
 #include <SPI.h>
-#include <EEPROM.h>
+#include <EEPROM.h> 
 
 #define TFT_CS 10
 #define TFT_RST 9
